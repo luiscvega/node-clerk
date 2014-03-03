@@ -1,0 +1,30 @@
+{
+  "name": "clerk",
+  "version": "0.0.0",
+  "description": "Validate input with callback",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luiscvega/clerk"
+  },
+  "keywords": [
+    "validation",
+    "validate",
+    "valid",
+    "input",
+    "callback"
+  ],
+  "devDependencies": {
+    "mocha": "~1.6.0",
+    "should": "~2.1.0"
+  },
+  "author": "Luis Vega <luiscvega@gmail.com> (http://luisvega.me/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luiscvega/clerk/issues"
+  },
+  "homepage": "https://github.com/luiscvega/clerk"
+}
