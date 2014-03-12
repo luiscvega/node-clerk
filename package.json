@@ -1,6 +1,6 @@
 {
   "name": "node-clerk",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Validate input with callback",
   "main": "index.js",
   "scripts": {
